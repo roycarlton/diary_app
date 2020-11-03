@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="new_entry_button">New Entry</string>
+    <string name="read_entries_button">Read Entries</string>
+    <string name="saveButton">Save</string>
+    <string name="deleteButton">Delete</string>
+    <string name="refreshButton">Refresh</string>
+    <string name="titleText">Title...</string>
+    <string name="entryText">Entry...</string>
+</resources>
